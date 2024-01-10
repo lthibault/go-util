@@ -1,4 +1,4 @@
-module github.com/zenhack/go-util
+module github.com/lthibault/go-util
 
 go 1.19
 
